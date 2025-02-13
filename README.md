@@ -4,7 +4,7 @@
 This repository contains "Python scripts" for cleaning, processing, and storing data from "Yelp" and "Telegram" sources. The project includes data scraping, cleaning, transformation, and storage in a "PostgreSQL database". It is designed to handle large datasets efficiently and ensure data integrity.
 📂 Repository Structure
 #Note: Other part of code are exists in my google drive link in below..
-GOOGLE DRIVE LINK: "https://drive.google.com/drive/folders/15YQt1y_6SKD9oKeKHwlKCgE5f10Ox1LH?usp=drive_link"
+GOOGLE DRIVE LINK: "https://drive.google.com/drive/folders/15YQt1y_6SKD9oKeKHwlKCgE5f10Ox1LH?usp=sharing"
 
 BIgdata-Project/
 ├── EthioScraber.py             # Telegram scraper and data pipeline
