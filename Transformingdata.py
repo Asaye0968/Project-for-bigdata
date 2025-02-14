@@ -1,5 +1,4 @@
 import pandas as pd
-
 # Define column data types
 dtype_dict = {
     "Phone": str,  # Force phone numbers to be read as strings
